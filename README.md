@@ -1,2 +1,2 @@
 # ctf_journal
-This is the writeup for my CTFs
+This is my CTF writeup. It includes the problem-solving thought process, the techniques, tools, and payloads I used.
